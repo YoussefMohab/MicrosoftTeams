@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teams</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Do not have an account? sign up</string>
+    <string name="forgetpass">Forgot password?</string>
+    <string name="changelangbtn">EN</string>
+    <string name="microsoft">Microsoft_Teams</string>
+    <string name="email">Email</string>
+</resources>

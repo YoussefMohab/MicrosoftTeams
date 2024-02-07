@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teams</string>
+    <string name="password">"    Mot de passe"</string>
+    <string name="login">"    Connexion"</string>
+    <string name="signup">"    Vous n\\'avez pas de compte ? S\\'inscrire"</string>
+    <string name="forgetpass">"    Oublier mot de passe"</string>
+    <string name="changelangbtn">"    FR "</string>
+    <string name="microsoft">"    Microsoft_Teams "</string>
+    <string name="email">"    E-mail"</string>
+</resources>
